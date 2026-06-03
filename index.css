@@ -890,7 +890,6 @@ body {
 
 .blog {
     contain: paint;
-    background-image: url(./Assets/sc4.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
